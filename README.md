@@ -1,3 +1,5 @@
+📘 日本語版READMEはこちら → [README.ja.md](./README.ja.md)
+
 # ExcelFilesToOneCsv
 
 This tool extracts specific cells from multiple Excel files and combines the data into a single CSV file.  
