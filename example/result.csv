@@ -1,0 +1,7 @@
+company,contact,address,phone,email,subtotal,total,item1,amount1,item2,amount2,item3,amount3
+FintechX,Carol White,"700 Finance Ave
+New York, NY 10005",(212)-999-8888,carol@fintechx.com,2500,2750,Initial Setup,1200,Security Configuration,800,Monitoring System,500
+EnviroTech,Brian Lee,"400 Green Blvd
+Seattle, WA 98101",(555)-121-2323,brian@envirotech.io,1200,1320,Consultation,400,Design services,800,,
+TechBridge,Alice Thompson,"200 Bridge Street
+Boston, MA 02114",987-654-3210,alice@techbridge.com,2150,2365,Wireframing,500,UI Prototyping,750,Final Design Delivery,900
